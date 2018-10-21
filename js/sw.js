@@ -20,6 +20,8 @@ var urlsToCache = [
   '../img/8.jpg',
   '../img/9.jpg',
   '../img/10.jpg',
+  '../README.md'
+  
 ];
 
 self.addEventListener('install', function (event) {
